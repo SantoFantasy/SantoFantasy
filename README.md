@@ -1,6 +1,6 @@
-# Sobre mim
-
 >[Engish version here](#about-me)
+
+# Sobre mim
 
 Olá, meu nome é Luiz Eduardo, mas pode me chamar de Fantasy.  
 Trabalho como DevOps e atuo na área há cerca de 4 anos.
@@ -21,7 +21,7 @@ Vou listar o que tenho trabalhado mais próximo nos últimos anos, mas não sign
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/luiz-eduardo-213374165/) ~~(em construção, e ainda assim, raramente eu abro)~~
-- [Instragram](https://www.instagram.com/mrfantasy_/), raramente tem algo novo, mas fique a vontade ¯\\\_(ツ)_/¯
+- [Instagram](https://www.instagram.com/santofantasy/), raramente tem algo novo, mas fique a vontade ¯\\\_(ツ)_/¯
 
 ---
 # About me
@@ -45,4 +45,4 @@ I'm listing what I've been working on the most in the last few years, but it doe
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/luiz-eduardo-213374165/) ~~(under construction and yet I barely use this one)~~
-- [Instragram](https://www.instagram.com/mrfantasy_/), another one that I barely use, feel free to follow ¯\\\_(ツ)_/¯
+- [Instagram](https://www.instagram.com/santofantasy/), another one that I barely use, feel free to follow ¯\\\_(ツ)_/¯
