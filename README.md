@@ -1,4 +1,4 @@
->[Engish version here](#about-me)
+>[English version here](#about-me)
 
 # Sobre mim
 
@@ -30,7 +30,7 @@ I'm a sysadmin and have been working in this field for about 4 years.
 
 Currently, I work as DevOps Analyst I, focusing on infrastructure and automation on AWS Cloud using mainly Terraform.
 
-In my free time, I like to play and listen to music. ~~a lot~~
+In my free time, I like to play games and listen to music. ~~a lot~~
 
 
 ## Skills
